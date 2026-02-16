@@ -2,7 +2,7 @@
 
 An AI-powered screenshot assistant for macOS. Capture any part of your screen with a global shortcut, then ask questions about it using multimodal AI.
 
-![Demo](demo.gif)
+
 
 ## Features
 
